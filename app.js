@@ -17,7 +17,6 @@ for (let i = 0; i < buttons.length; i++) {
 
 // Equal button function
 equalButton.addEventListener('click', function () {
-
   if (screen.value === '') {
     alert('input is empty')
   } else {
