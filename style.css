@@ -57,11 +57,15 @@ input {
   outline: none;
 }
 
-
 button:hover {
   cursor: pointer;
   /* opacity: .5; */
   background: orange;
+}
+
+
+button:active {
+  /* background: rgb(255, 184, 52); */
 }
 
 .zero {
